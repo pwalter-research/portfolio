@@ -27,14 +27,35 @@ tagline: A portfolio to show off my projects both academic and professional
 # this description might appear in search result lists, keep around 160 characters max
 description: "CollectionBuilder-GH is a template for creating small digital collection exhibits on GitHub Pages designed for teaching digital library skills"
 # creator of the digital collection, to appear in meta tags; we typically use our GitHub usernames but feel free to just use your name
-author: Paul Walter
+author:
+  name              : Paul Walter
+  image             : https://profiles.ucalgary.ca/sites/default/files/styles/ucws_profile_picture/public/2023-12/paul_at_lab.jpg?itok=A9TpySz1
+# behance           : your_username
+# dribbble          : your_username
+  email             : paul.walter@ucalgary.ca
+# facebook          : your_username
+  github            : paultrino
+# gitlab            : your_username
+# instagram         : your_username
+# kaggle            : your_username
+  linkedin          : paulwaynewalter
+# medium            : your_username
+# soundcloud        : your_username
+# spotify           : your_username
+# stackoverflow     : your_user_id
+# tumblr            : your_username.tumblr.com
+# twitch            : your_username
+# twitter           : your_username
+# vimeo             : your_username
+# youtube           : your_channel_name
+# keybase           : your_username
 
 ##########
 # COLLECTION SETTINGS
 #
 # Set the metadata for your collection (the name of the csv file in your _data directory that describes the objects in your collection) 
 # Use the filename of your CSV **without** the ".csv" extension! E.g. _data/demo-metadata.csv --> "demo-metadata"
-metadata: psychiana-demo-fixed
+metadata: website-data
 
 ##########
 # Site/Organization Branding 
